@@ -1,8 +1,6 @@
-# FeepaymentAlert_via_Email
+# FeepaymentAlert_via_Email (consolebased)
 
-# Admin Fee Notification System
-#overview
-
+# Overview
 This project is an administrative tool designed to manage user fee statuses and automate the process of sending email notifications. The application allows an admin to log in using OTP authentication and then perform several key actions such as updating fee statuses and sending out notifications to users with pending or cleared fees.
 
 ## Features
